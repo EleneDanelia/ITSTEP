@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC01\\Desktop\\STEP Homework\\Homework1\\bookManager\\bookManager\\bookManager.csproj",
+      "projectUniqueName": "C:\\Users\\PC01\\Desktop\\GitHub\\bookManager\\bookManager\\bookManager.csproj",
       "projectName": "bookManager",
-      "projectPath": "C:\\Users\\PC01\\Desktop\\STEP Homework\\Homework1\\bookManager\\bookManager\\bookManager.csproj",
+      "projectPath": "C:\\Users\\PC01\\Desktop\\GitHub\\bookManager\\bookManager\\bookManager.csproj",
       "packagesPath": "C:\\Users\\PC01\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC01\\Desktop\\STEP Homework\\Homework1\\bookManager\\bookManager\\obj\\",
+      "outputPath": "C:\\Users\\PC01\\Desktop\\GitHub\\bookManager\\bookManager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
