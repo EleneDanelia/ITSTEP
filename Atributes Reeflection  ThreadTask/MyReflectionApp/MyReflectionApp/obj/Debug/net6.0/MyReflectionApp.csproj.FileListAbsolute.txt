@@ -1,0 +1,14 @@
+C:\Users\PC01\Desktop\GitHub\Atributes Reeflection  ThreadTask\MyReflectionApp\MyReflectionApp\bin\Debug\net6.0\MyReflectionApp.exe
+C:\Users\PC01\Desktop\GitHub\Atributes Reeflection  ThreadTask\MyReflectionApp\MyReflectionApp\bin\Debug\net6.0\MyReflectionApp.deps.json
+C:\Users\PC01\Desktop\GitHub\Atributes Reeflection  ThreadTask\MyReflectionApp\MyReflectionApp\bin\Debug\net6.0\MyReflectionApp.runtimeconfig.json
+C:\Users\PC01\Desktop\GitHub\Atributes Reeflection  ThreadTask\MyReflectionApp\MyReflectionApp\bin\Debug\net6.0\MyReflectionApp.dll
+C:\Users\PC01\Desktop\GitHub\Atributes Reeflection  ThreadTask\MyReflectionApp\MyReflectionApp\bin\Debug\net6.0\MyReflectionApp.pdb
+C:\Users\PC01\Desktop\GitHub\Atributes Reeflection  ThreadTask\MyReflectionApp\MyReflectionApp\obj\Debug\net6.0\MyReflectionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC01\Desktop\GitHub\Atributes Reeflection  ThreadTask\MyReflectionApp\MyReflectionApp\obj\Debug\net6.0\MyReflectionApp.AssemblyInfoInputs.cache
+C:\Users\PC01\Desktop\GitHub\Atributes Reeflection  ThreadTask\MyReflectionApp\MyReflectionApp\obj\Debug\net6.0\MyReflectionApp.AssemblyInfo.cs
+C:\Users\PC01\Desktop\GitHub\Atributes Reeflection  ThreadTask\MyReflectionApp\MyReflectionApp\obj\Debug\net6.0\MyReflectionApp.csproj.CoreCompileInputs.cache
+C:\Users\PC01\Desktop\GitHub\Atributes Reeflection  ThreadTask\MyReflectionApp\MyReflectionApp\obj\Debug\net6.0\MyReflectionApp.dll
+C:\Users\PC01\Desktop\GitHub\Atributes Reeflection  ThreadTask\MyReflectionApp\MyReflectionApp\obj\Debug\net6.0\refint\MyReflectionApp.dll
+C:\Users\PC01\Desktop\GitHub\Atributes Reeflection  ThreadTask\MyReflectionApp\MyReflectionApp\obj\Debug\net6.0\MyReflectionApp.pdb
+C:\Users\PC01\Desktop\GitHub\Atributes Reeflection  ThreadTask\MyReflectionApp\MyReflectionApp\obj\Debug\net6.0\MyReflectionApp.genruntimeconfig.cache
+C:\Users\PC01\Desktop\GitHub\Atributes Reeflection  ThreadTask\MyReflectionApp\MyReflectionApp\obj\Debug\net6.0\ref\MyReflectionApp.dll
